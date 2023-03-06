@@ -22,7 +22,7 @@
 
 ## 推荐
 
-**[八戒](https://bajie.one/#/register?code=30AHo62g)**：**\[[https://bit.ly/3EYK64a](https://bajie.one/#/register?code=30AHo62g)\]**
+**[八戒]**：**\[[https://bit.ly/3EYK64a][八戒]\]**
 
 - 节点全部为专线
 
@@ -43,7 +43,7 @@
 
 - 部分套餐为 **永久流量** **不限速** **不限制设备个数** **无到期时间**
 
-**[茶猫](https://teacat1.com/#/register?code=qqHNaxeP)**：**\[[https://bit.ly/3DkDOdT](https://teacat1.com/#/register?code=qqHNaxeP)\]**
+**[茶猫]**：**\[[https://bit.ly/3DkDOdT][茶猫]\]**
 
 - 节点包括 港 台 美 日 新加坡 土耳其等有专线节点可用。
 
@@ -63,7 +63,7 @@
 
 - 部分套餐为 **永久流量** **1500Mbps 速率** **不限速** **不限制设备个数** **无到期时间**
 
-**[简单云](https://www.spcloud.cc/index.php#/register?code=myoLmyGa)**：**\[<https://www.spcloud.cc/index.php#/register?code=myoLmyGa>\]**
+**[简单云]**：**\[<https://www.spcloud.cc/index.php#/register?code=myoLmyGa>\]**
 
 - 节点包括 港 台 美 日 韩 新加坡 等
 
@@ -81,7 +81,7 @@
 
 - 部分套餐为 **永久流量** **2000Mbps 速率** **无到期时间**
 
-**[魔戒](https://mojie.best/#/register?code=fvVGu88F)**：**\[[https://bit.ly/3lzOo7b](https://mojie.best/#/register?code=fvVGu88F)\]**
+**[魔戒]**：**\[[https://bit.ly/3lzOo7b][魔戒]\]**
 
 - 节点包括 港 台 美 日 新加坡 土耳其 阿根廷 柬埔寨 马来西亚等
 
@@ -104,7 +104,7 @@
   | 10000            | 500                     |
 - 所有套餐均为 **永久流量** **不限速** **不限制设备个数** **无到期时间** **流媒体播放**
 
-**[飞鸟云](https://feiniaoyun.xyz/#/register?code=GEQS8eY2)**：**\[[https://bit.ly/3d4rOlU](https://feiniaoyun.xyz/#/register?code=GEQS8eY2)\]**
+**[飞鸟云]**：**\[[https://bit.ly/3d4rOlU][飞鸟云]\]**
 
 - 节点包括 港 台 美 日 韩 新加坡 等
 
@@ -125,7 +125,7 @@
 
 - 部分套餐为 **永久流量** **1000Mbps 速率** **无到期时间**
 
-末尾放下目前最强机场**奶昔**：**[https://bit.ly/3DIR1gC]** -最低 71 元每月，预算充足的最佳选择
+末尾放下目前最强机场**[奶昔]**：**\[[https://bit.ly/3DIR1gC][奶昔]\]** -最低 71 元每月，预算充足的最佳选择
 
 ---
 
@@ -140,3 +140,12 @@
   各种技术和方法被用来绕过互联网审查，并且具有不同的易用性、速度、安全性和风险。一些方法，例如使用备用 DNS 服务器，通过使用备用地址或地址查找系统来访问站点来绕过封锁。使用网站镜像或存档站点的技术依赖于在不同位置可用的站点的其他副本。此外，还有一些解决方案依赖于访问不受过滤的互联网连接，通常在不受相同审查法律约束的不同司法管辖区，使用代理、虚拟专用网络或匿名网络等技术。
 
   审查员和规避软件开发人员之间展开了一场军备竞赛，导致审查员采用了更复杂的拦截技术，研究人员开发了更难检测的工具。对采用规避工具的估计差异很大并且存在争议。使用的障碍可能包括可用性问题，难以找到关于规避的可靠和可信赖的信息，缺乏访问审查内容的愿望，以及触犯法律的风险。
+
+<!-- Links -->
+
+[八戒]: https://bajie.one/#/register?code=30AHo62g
+[茶猫]: https://teacat1.com/#/register?code=qqHNaxeP
+[简单云]: https://www.spcloud.cc/index.php#/register?code=myoLmyGa
+[魔戒]: https://mojie.best/#/register?code=fvVGu88F
+[飞鸟云]: https://feiniaoyun.xyz/#/register?code=GEQS8eY2
+[奶昔]: https://nxboom.com/signupbyemail.aspx?MemberCode=19be3963899a4474a585ef46abe43a3f20220528125402
