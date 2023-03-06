@@ -63,7 +63,7 @@
 
 - 部分套餐为 **永久流量** **1500Mbps 速率** **不限速** **不限制设备个数** **无到期时间**
 
-### [简单云]：\[<https://www.spcloud.cc/index.php#/register?code=myoLmyGa>\]
+### [简单云]：\[[https://bit.ly/3SOz32p][简单云]\]
 
 - 节点包括 港 台 美 日 韩 新加坡 等
 
