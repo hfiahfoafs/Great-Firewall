@@ -22,7 +22,7 @@
 
 ## 推荐
 
-**[八戒](https://bajie.one/#/register?code=30AHo62g)**：**[[https://bit.ly/3EYK64a](https://bajie.one/#/register?code=30AHo62g)]**
+**[八戒](https://bajie.one/#/register?code=30AHo62g)**：**\[[https://bit.ly/3EYK64a](https://bajie.one/#/register?code=30AHo62g)\]**
 
 - 节点全部为专线
 
@@ -43,7 +43,7 @@
 
 - 部分套餐为 **永久流量** **不限速** **不限制设备个数** **无到期时间**
 
-**[茶猫](https://teacat1.com/#/register?code=qqHNaxeP)**：**[[https://bit.ly/3DkDOdT](https://teacat1.com/#/register?code=qqHNaxeP)]**
+**[茶猫](https://teacat1.com/#/register?code=qqHNaxeP)**：**\[[https://bit.ly/3DkDOdT](https://teacat1.com/#/register?code=qqHNaxeP)\]**
 
 - 节点包括 港 台 美 日 新加坡 土耳其等有专线节点可用。
 
@@ -63,7 +63,7 @@
 
 - 部分套餐为 **永久流量** **1500Mbps 速率** **不限速** **不限制设备个数** **无到期时间**
 
-**[简单云](https://www.spcloud.cc/index.php#/register?code=myoLmyGa)**：**[[https://www.spcloud.cc/index.php#/register?code=myoLmyGa)]**
+**[简单云](https://www.spcloud.cc/index.php#/register?code=myoLmyGa)**：**\[<https://www.spcloud.cc/index.php#/register?code=myoLmyGa>\]**
 
 - 节点包括 港 台 美 日 韩 新加坡 等
 
@@ -81,7 +81,7 @@
 
 - 部分套餐为 **永久流量** **2000Mbps 速率** **无到期时间**
 
-**[魔戒](https://mojie.best/#/register?code=fvVGu88F)**：**[[https://bit.ly/3lzOo7b](https://mojie.best/#/register?code=fvVGu88F)]**
+**[魔戒](https://mojie.best/#/register?code=fvVGu88F)**：**\[[https://bit.ly/3lzOo7b](https://mojie.best/#/register?code=fvVGu88F)\]**
 
 - 节点包括 港 台 美 日 新加坡 土耳其 阿根廷 柬埔寨 马来西亚等
 
@@ -104,7 +104,7 @@
   | 10000            | 500                     |
 - 所有套餐均为 **永久流量** **不限速** **不限制设备个数** **无到期时间** **流媒体播放**
 
-**[飞鸟云](https://feiniaoyun.xyz/#/register?code=GEQS8eY2)**：**[[https://bit.ly/3d4rOlU](https://feiniaoyun.xyz/#/register?code=GEQS8eY2)]**
+**[飞鸟云](https://feiniaoyun.xyz/#/register?code=GEQS8eY2)**：**\[[https://bit.ly/3d4rOlU](https://feiniaoyun.xyz/#/register?code=GEQS8eY2)\]**
 
 - 节点包括 港 台 美 日 韩 新加坡 等
 
