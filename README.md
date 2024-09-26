@@ -21,7 +21,7 @@
 ## 推荐
 
 
-**[八戒](https://bajie.xyz/register?aff=rZeTEEYL)**：**[[[https://bit.ly/3EYK64a]](https://bajie.xyz/register?aff=rZeTEEYL)]**
+**[[八戒]](https://bajie.xyz/register?aff=30AHo62g)**：**[[[https://bit.ly/3EYK64a]](https://bajie.xyz/register?aff=30AHo62g)]**
 
 - 节点全部为专线
 
