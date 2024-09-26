@@ -21,7 +21,7 @@
 ## 推荐
 
 
-**[八戒](https://bajie.run/#/register?code=30AHo62g)**：**[[https://bit.ly/3EYK64a](https://bajie.run/#/register?code=30AHo62g)]**
+**[八戒](https://bajie.xyz/register?aff=rZeTEEYL)**：**[[[https://bit.ly/3EYK64a]](https://bajie.xyz/register?aff=rZeTEEYL)]**
 
 - 节点全部为专线
 
@@ -76,7 +76,7 @@
 
 
 
-**[简单云](https://invite.spcloud.vip/#/register?code=TR2ugnzP)**：**[(https://invite.spcloud.vip/#/register?code=TR2ugnzP)]**
+**[[简单云]](https://invite.spcloud.vip/#/register?code=TR2ugnzP)**：**[(https://invite.spcloud.vip/#/register?code=TR2ugnzP)]**
 
 - 节点包括 港 台 美 日 韩 新加坡 等
 
@@ -127,7 +127,7 @@
   
 - 所有套餐均为 **永久流量** **不限速** **不限制设备个数** **无到期时间** **流媒体播放**
 
-**[飞鸟云](https://feiniaoyun.xyz/#/register?code=GEQS8eY2)**：**[[https://bit.ly/3d4rOlU](https://feiniaoyun.xyz/#/register?code=GEQS8eY2)]**
+**[[飞鸟云]](https://feiniaoyun11.life/#/register?code=GEQS8eY2)**：**[[https://feiniaoyun11.life/#/register?code=GEQS8eY2)]**
 
 - 节点包括 港 台 美 日 韩 新加坡 等
 
