@@ -102,7 +102,7 @@
 
 
 
-**[魔戒](https://mojie.best/#/register?code=fvVGu88F)**：**[[https://bit.ly/3lzOo7b](https://mojie.best/#/register?code=fvVGu88F)]**
+**[魔戒](https://onlysub.mjurl.com/api/v1/client/subscribe?token=45160fbd16804fae5786668aa06f072c)**：**[[https://bit.ly/3lzOo7b](https://onlysub.mjurl.com/api/v1/client/subscribe?token=45160fbd16804fae5786668aa06f072c)]**
 
 - 节点包括 港 台 美 日 新加坡 土耳其 阿根廷 柬埔寨 马来西亚等
 
