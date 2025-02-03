@@ -46,7 +46,7 @@
 - 部分套餐为 **永久流量** **不限速** **不限制设备个数** **无到期时间**
 
 
-**[[蜂窝]](https://fengwo.vfbhg.cn/#/login?code=Yb7qasIZ)**：**[(https://fengwo.vfbhg.cn/#/login?code=Yb7qasIZ)]**（疑似跑路）
+**[[蜂窝]](https://fengwo.vfbhg.cn/#/login?code=Yb7qasIZ)**：**[(https://fengwo.vfbhg.cn/#/login?code=Yb7qasIZ)]**
 
 
 - 套餐有不限时流量包和限时流量包 中转线路 2000Mbps高速率 无设备限制 流媒体解锁 
