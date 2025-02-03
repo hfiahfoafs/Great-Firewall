@@ -166,7 +166,7 @@
 - 部分套餐为 **永久流量** **1000Mbps速率**  **无到期时间**
 
 
-**[[独角兽]](https://fengwo.vfbhg.cn/#/login?code=Yb7qasIZ)**：**[(https://fengwo.vfbhg.cn/#/login?code=Yb7qasIZ)]**
+**[[独角兽]](https://91unicorn.cloud/#/register?code=a3ebbx35)**：**[(https://91unicorn.cloud/#/register?code=a3ebbx35)]**
 
 -  1Gbps 网络速率 
 
