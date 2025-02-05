@@ -20,6 +20,29 @@
 
 ## 推荐
 
+**[[十八线小机场]](https://xsus2025.icu/#/register?code=GcQQcWH1)**：**[[[https://bit.ly/3EYK64a]](https://xsus2025.icu/#/register?code=GcQQcWH1)]**
+
+- 全球多个国家接入
+
+- 套餐有不限时流量包和限时流量包 不限制速率 不限设备 流媒体解锁 
+
+- 拥有丰富的低倍率节点
+
+- 1Gbps 带宽保证
+
+- 热门节点均保证Netflix及Disney
+
+
+
+### 价格
+
+- | 流量（单位：Gb） | 价格（单位：人民币/元） |
+  | ---------------- | ---------------------- |
+  | 188              | 58                     |
+  | 400              | 110                    |
+  | 1024             | 220                    |
+
+
 
 **[[蜂窝]](https://fengwo.vfbhg.cn/#/login?code=Yb7qasIZ)**：**[(https://fengwo.vfbhg.cn/#/login?code=Yb7qasIZ)]**
 
