@@ -66,7 +66,7 @@
   | 2000             | 240                    |
 
 
-**[[八戒]](https://bajie.xyz/register?aff=30AHo62g)**：**[[[https://bit.ly/3EYK64a]](https://bajie.xyz/register?aff=30AHo62g)]**
+**[[八戒]](https://bajie.xyz/register?aff=30AHo62g)**：**[[[https://bit.ly/3EYK64a]](https://bajie.la/register?aff=kZZPZtxN)]**
 
 - 节点全部为专线
 
@@ -94,7 +94,7 @@
 
 
 
-**[茶猫](https://teacat1.com/#/register?code=qqHNaxeP)**：**[[https://bit.ly/3DkDOdT](https://teacat1.com/#/register?code=qqHNaxeP)]**
+**[茶猫](https://teacat.cloud/#/register?code=7tp4u5kM)**：**[[https://bit.ly/3DkDOdT](https://teacat.cloud/#/register?code=7tp4u5kM)]**
 
 - 节点包括 港 台 美 日 新加坡 土耳其等有专线节点可用。
 
@@ -144,7 +144,7 @@
 
 
 
-**[魔戒](https://onlysub.mjurl.com/api/v1/client/subscribe?token=45160fbd16804fae5786668aa06f072c)**：**[[https://bit.ly/3lzOo7b](https://onlysub.mjurl.com/api/v1/client/subscribe?token=45160fbd16804fae5786668aa06f072c)]**
+**[魔戒](https://mojie.app/register?aff=NevU5b7N)**：**[[https://bit.ly/3lzOo7b](https://mojie.app/register?aff=NevU5b7N)]**
 
 - 节点包括 港 台 美 日 新加坡 土耳其 阿根廷 柬埔寨 马来西亚等
 
@@ -169,7 +169,7 @@
   
 - 所有套餐均为 **永久流量** **不限速** **不限制设备个数** **无到期时间** **流媒体播放**
 
-**[[飞鸟云]](https://feiniaoyun11.life/#/register?code=GEQS8eY2)**：**[[https://feiniaoyun11.life/#/register?code=GEQS8eY2)]**
+**[[飞鸟云]](https://fn1.767887.xyz/#/register?code=kz2w8b73)**
 
 - 节点包括 港 台 美 日 韩 新加坡 等
 
